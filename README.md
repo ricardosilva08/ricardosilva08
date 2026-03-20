@@ -1,4 +1,6 @@
-## Hi there 👋
+## Olá, eu sou o Ricardo Moreira. 👋
+Sou estudante de Gestão e programação de sistemas informáticos (GPSI) com interesse em desenvolvimento de programas.
+Estou a desenvolver competências em programação e tecnologia.
 
 <!--
 **ricardosilva08/ricardosilva08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
